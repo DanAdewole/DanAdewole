@@ -16,8 +16,7 @@ I've been learning to code for a while now. I started with HTML and CSS, after t
 
 * 🤝  I'm open to collaborating on Interesting Projects (Django and Flask especially)
 
-* ⚡  I'm proficient in graphics designing
-
+* ⚡  I design graphics too pretty well. As a side job
 ### Skills
 
 <p align="left">
