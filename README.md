@@ -16,13 +16,13 @@ I've been learning to code for a while now. I started with HTML and CSS, after t
 
 * 🤝  I'm open to collaborating on Interesting Projects (Django and Flask especially)
 
-* ⚡  I design graphics too pretty well. As a side job
+* ⚡  I am also a creatve freelance graphics designer. Some of my designs are on instagram [here](https://www.instagram.com/dan_adewole)
 
 ### Projects
 
 Some of the projects I've done include:
 * A blog site. (made with flask). Check it out [here](https://github.com/DanAdewole/My-Blog)
-* A static dog dating site. Check it out [here](https://github.com/DanAdewole/Tindog_Website)
+* A static dog dating site (made with Bootstrap). Check it out [here](https://github.com/DanAdewole/Tindog_Website)
 
 
 ### Skills
