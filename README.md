@@ -6,7 +6,7 @@
 
 ---------------------------------
 
-I've been learning to code for a while now. I started with HTML and CSS, after that, I delved into graphics design. Along the line, I tried getting my hands dirty with WordPress but figured coding the sites myself would be better. I went back to coding and got introduced to Python while at school. I enjoyed working with Python, and now, I find myself learning Python backend frameworks (Django and Flask). I am open to learning new things and new languages and collaborating on projects. I am also interested in Web3 space and really hope venture into the space soon
+I've been learning to code for a while now. I started with HTML and CSS, after that, I delved into graphics design. Along the line, I tried getting my hands dirty with WordPress but figured coding the sites myself would be better. I went back to coding and got introduced to Python while at school. I enjoyed working with Python, and now, I find myself learning Python backend frameworks (Django and Flask). I also work with REST API's too. I am open to learning new things and new languages and collaborating on projects. I am also interested in Web3 space and really hope venture into the space soon.
 
 * 🌍  I'm based in Ogun, Nigeria
 
@@ -23,6 +23,7 @@ I've been learning to code for a while now. I started with HTML and CSS, after t
 Some of the projects I've done include:
 * A blog site. (made with flask). Check it out [here](https://github.com/DanAdewole/My-Blog)
 * A static dog dating site (made with Bootstrap). Check it out [here](https://github.com/DanAdewole/Tindog_Website)
+* Musical Time Machine (Python). CHeck it out [here](https://github.com/DanAdewole/Muscial-TIme-Machine)
 
 
 ### Skills
