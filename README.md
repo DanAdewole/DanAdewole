@@ -1,14 +1,10 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Daniel Adewole
-
-=====================================================================================================================================
-
-## Software Engineer (Backend Heavy)
-
+# Hey, I'm Daniel Adewole![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ---------------------------------
+## Software Developer (Backend Heavy)
 
-I've been learning to code for a while now. I started with HTML and CSS, after that, I delved into graphics design. Along the line, I tried getting my hands dirty with WordPress but figured coding the sites myself would be better. I went back to coding and got introduced to Python while at school. I enjoyed working with Python, and now, I find myself learning Python backend frameworks (Django and Flask). I also work with REST API's too. I am open to learning new things and new languages and collaborating on projects. I am also interested in Web3 space and really hope venture into the space soon.
+I am a software developer who is always striving to learn new technologies. I am focused on backend development with Django and Flask. I also work with REST API's too. I am open to learning new things and new languages and collaborating on projects.
 
-* 🌍  I'm based in Ogun, Nigeria
+<!--* 🌍  I'm based in Ogun, Nigeria-->
 
 * ✉️  You can contact me at [adedaniel5042@gmail.com](mailto:adedaniel5042@gmail.com)
 
@@ -16,7 +12,7 @@ I've been learning to code for a while now. I started with HTML and CSS, after t
 
 * 🤝  I'm open to collaborating on Interesting Projects (Django and Flask especially)
 
-* ⚡  I am also a creatve freelance graphics designer. Some of my designs are on instagram [here](https://www.instagram.com/dan_adewole)
+* ⚡  I am also a creative freelance graphics designer. Some of my designs are on instagram [here](https://www.instagram.com/dan_adewole)
 
 ### Projects
 
