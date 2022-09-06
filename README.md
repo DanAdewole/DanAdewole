@@ -1,5 +1,5 @@
 # Hey, I'm Daniel Adewole![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
----------------------------------
+
 ## Software Developer (Backend Heavy)
 
 I am a software developer who is always striving to learn new technologies. I am focused on backend development with Django and Flask. I also work with REST API's too. I am open to learning new things and new languages and collaborating on projects.
@@ -8,7 +8,7 @@ I am a software developer who is always striving to learn new technologies. I am
 
 * ✉️  You can contact me at [adedaniel5042@gmail.com](mailto:adedaniel5042@gmail.com)
 
-* 🧠  I'm learning Django and Flask currently
+<!--* 🧠  I'm learning Django and Flask currently-->
 
 * 🤝  I'm open to collaborating on Interesting Projects (Django and Flask especially)
 
