@@ -2,7 +2,7 @@
 
 ## Software Developer (Backend Heavy)
 
-I am a software developer who is always striving to learn new technologies. I am focused on backend development with Django and Flask. I also work with REST API's too. I am open to learning new things and new languages and collaborating on projects.
+I am a software developer who is always striving to learn new technologies. I am focused on backend development with Django and Flask. I also work with REST API's. I am open to learning new things and new languages, collaborate on projects and love to contibute to open source projects.
 
 <!--* 🌍  I'm based in Ogun, Nigeria-->
 
