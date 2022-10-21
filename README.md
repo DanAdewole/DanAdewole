@@ -22,6 +22,7 @@ I am open to internship roles at the moment, and I am currently focused on HTML5
 ### Projects
 
 Some of the projects I've done include:
+* NotInk: A note taking project done with django. Here is the link to the repo [here](https://github.com/DanAdewole/NotInk)
 * A blog site. (made with flask). Check it out [here](https://github.com/DanAdewole/My-Blog)
 * A static dog dating site (made with Bootstrap). Check it out [here](https://github.com/DanAdewole/Tindog_Website)
 * Musical Time Machine (Python). CHeck it out [here](https://github.com/DanAdewole/Muscial-TIme-Machine)
@@ -54,7 +55,9 @@ Some of the projects I've done include:
 <!--
 <a href="http://www.github.com/DanAdewole"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DanAdewole&stroke=ffffff&background=1c1917&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a> -->
 
+<!--
 <a href="https://github.com/DanAdewole" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanAdewole&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+-->
 
 <!--
 **DanAdewole/DanAdewole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
