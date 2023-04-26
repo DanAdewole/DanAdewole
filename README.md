@@ -1,31 +1,31 @@
-# Hey, I'm Daniel Adewole![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+## Hi there! 👋
+I'm Daniel Adewole, a skilled and passionate software engineer specializing in backend development. With expertise in Django, Flask, HTML, CSS, Bootstrap, Git, JavaScript, Python, Selenium, jQuery, firebase, PostgreSql, firestore(nosql), I am constantly expanding my knowledge to stay up-to-date with the latest technologies.
 
-## Software Developer (Backend Heavy)
+## 💻 My Expertise
 
-I am an upcoming software engineer/backend developer working with technologies/programming languages/frameworks such as HTML5, CSS3, Bootstrap, Flask, Django, Git and others.
+- Backend development with Django, Flask, and Python
+- Front-end development with HTML, CSS, Bootstrap, and JavaScript
+- Database design and implementation with PostgreSql and firestore(nosql)
+- Version control with Git for collaborative development
+- Testing with Selenium, PyTest
+- Deployment using Firebase, Heroku, and Railway
 
-I am committed to learning new technologies and perfecting technologies I am already familiar with, while using modern tools and maintaining best practices.
+## 🚀 My Experience
 
-I am open to internship roles at the moment, and I am currently focused on HTML5, CSS3, Django, and DRF
+I'm a dedicated problem-solver with a keen attention to detail. I thrive in collaborative team environments and have experience developing and maintaining web applications. I'm committed to continuous learning and growth and am always looking for opportunities to challenge myself.
 
+## 🌱 Continuous Learning
 
-<!--* 🌍  I'm based in Ogun, Nigeria-->
+My goal is to contribute to the growth of a dynamic company by utilizing my skills and passion for software engineering. If you're looking for a skilled, innovative, and driven software engineer to join your team, please don't hesitate to contact me.
 
-* ✉️  You can contact me at [adedaniel5042@gmail.com](mailto:adedaniel5042@gmail.com)
-
-<!--* 🧠  I'm learning Django and Flask currently-->
-
-* 🤝  I'm open to collaborating on Interesting Projects (Django and Flask especially)
-
-* ⚡  I am also a creative freelance graphics designer. Some of my designs are on instagram [here](https://www.instagram.com/dan_adewole)
-
-### Projects
+## Projects
 
 Some of the projects I've done include:
-* NotInk: A note taking project done with django. Here is the link to the repo [here](https://github.com/DanAdewole/NotInk)
-* A blog site. (made with flask). Check it out [here](https://github.com/DanAdewole/My-Blog)
-* A static dog dating site (made with Bootstrap). Check it out [here](https://github.com/DanAdewole/Tindog_Website)
-* Musical Time Machine (Python). CHeck it out [here](https://github.com/DanAdewole/Muscial-TIme-Machine)
+- Reader: A project that allows anonymous users to view a list of available books on the homepage and search for books based on title, author, or summary. Check it out [here](https://github.com/DanAdewole/LocalLibrary)
+- NotInk: A note taking project done with django. Here is the link to the repo [here](https://github.com/DanAdewole/NotInk)
+- A blog site. (made with flask). Check it out [here](https://github.com/DanAdewole/My-Blog)
+- A static dog dating site (made with Bootstrap). Check it out [here](https://github.com/DanAdewole/Tindog_Website)
+- Musical Time Machine (Python). CHeck it out [here](https://github.com/DanAdewole/Muscial-TIme-Machine)
 
 
 ### Skills
@@ -43,11 +43,11 @@ Some of the projects I've done include:
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 </p>
 
-### Socials
+## Socials
 
 <p align="left"> <a href="https://www.facebook.com/daniel.adewole.504" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>  <a href="http://www.instagram.com/dan_adewole" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/daniel-adewole-b27285189/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/AdewoleDaniel15" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-### Badges
+## Badges
 
 <b>My GitHub Stats</b>
 
