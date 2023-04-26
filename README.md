@@ -21,6 +21,7 @@ My goal is to contribute to the growth of a dynamic company by utilizing my skil
 ## Projects
 
 Some of the projects I've done include:
+- Simpleblog-API: A RESTful API built with Django and Django REST framework (DRF) that provides endpoints for managing a simple blogging application. Check it out here [here](https://github.com/DanAdewole/SimpleBlog-API)
 - Reader: A project that allows anonymous users to view a list of available books on the homepage and search for books based on title, author, or summary. Check it out [here](https://github.com/DanAdewole/LocalLibrary)
 - NotInk: A note taking project done with django. Here is the link to the repo [here](https://github.com/DanAdewole/NotInk)
 - A blog site. (made with flask). Check it out [here](https://github.com/DanAdewole/My-Blog)
