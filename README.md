@@ -21,7 +21,7 @@ My goal is to contribute to the growth of a dynamic company by utilizing my skil
 ## Projects
 
 Some of the projects I've done include:
-- Simpleblog-API: A RESTful API built with Django and Django REST framework (DRF) that provides endpoints for managing a simple blogging application. Check it out here [here](https://github.com/DanAdewole/SimpleBlog-API)
+- Simpleblog-API: A RESTful API built with Django and Django REST framework (DRF) that provides endpoints for managing a simple blogging application. Check it out [here](https://github.com/DanAdewole/SimpleBlog-API)
 - Reader: A project that allows anonymous users to view a list of available books on the homepage and search for books based on title, author, or summary. Check it out [here](https://github.com/DanAdewole/LocalLibrary)
 - NotInk: A note taking project done with django. Here is the link to the repo [here](https://github.com/DanAdewole/NotInk)
 - A blog site. (made with flask). Check it out [here](https://github.com/DanAdewole/My-Blog)
@@ -65,14 +65,21 @@ Some of the projects I've done include:
   <a href="https://www.facebook.com/daniel.adewole.504" target="_blank">
     <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
   </a>
+  <a href="https://hashnode.com/@DanielAdewole" target="_blank">
+    <img src=https://img.shields.io/badge/hashnode-%232962FF.svg?&style=for-the-badge&logo=hashnode&logoColor=white alt=hashnode style="margin-bottom: 5px;" />
+   </a>  
 </div>
 
 
 ## My GitHub Stats
-<div>
+<div align="center">
 <a href="http://www.github.com/DanAdewole"><img src="https://github-readme-stats.vercel.app/api?username=DanAdewole&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" align="center" alt="DanAdewole's GitHub stats" /></a>
 </div>
+<br/>  
 
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=DanAdewole&&style=flat-square" align="center" />
+</div>
 <br/>  
 
 <div align="center">
@@ -84,6 +91,7 @@ Some of the projects I've done include:
             </a></div>
 <br />
 
+<!-- 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
