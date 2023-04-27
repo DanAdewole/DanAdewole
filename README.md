@@ -1,5 +1,5 @@
-## Hi there! 👋
-I'm Daniel Adewole, a skilled and passionate software engineer specializing in backend development. With expertise in Django, Flask, HTML, CSS, Bootstrap, Git, JavaScript, Python, Selenium, jQuery, firebase, PostgreSql, firestore(nosql), I am constantly expanding my knowledge to stay up-to-date with the latest technologies.
+# Hi there! 👋
+I am Daniel Adewole, a skilled and passionate software engineer specializing in backend development. With expertise in Django, Flask, HTML, CSS, Bootstrap, Git, JavaScript, Python, Selenium, jQuery, firebase, PostgreSql, firestore(nosql), I am constantly expanding my knowledge to stay up-to-date with the latest technologies.
 
 ## 💻 My Expertise
 
