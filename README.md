@@ -80,6 +80,8 @@ Some of the projects I've done include:
    </a>  
 </div>
 
+## Github Stats
+
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=DanAdewole&show_icons=true&theme=transparent&count_private=true&hide=issues,prs" width="100%" />
 </p>
