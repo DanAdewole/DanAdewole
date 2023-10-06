@@ -1,25 +1,34 @@
-# Hi there! 👋
-I am Daniel Adewole, a skilled and passionate software engineer specializing in backend development. With expertise in Django, Flask, HTML, CSS, Bootstrap, Git, JavaScript, Python, Selenium, jQuery, firebase, PostgreSql, firestore(nosql), I am constantly expanding my knowledge to stay up-to-date with the latest technologies.
+<h1 align="center">Hi 👋, I'm Daniel Adewole</h1>
+# Professional Profile
+
+## About Me
+I am a skilled and passionate software engineer specializing in backend development with over 2 years of experience, building scalable and efficient web applications. I am constantly expanding my knowledge to stay up-to-date with the latest technologies.
 
 ## 💻 My Expertise
-
 - Backend development with Django, Flask, and Python
 - Front-end development with HTML, CSS, Bootstrap, and JavaScript
-- Database design and implementation with PostgreSql and firestore(nosql)
+- Database design and implementation with PostgreSql
 - Version control with Git for collaborative development
 - Testing with Selenium, PyTest
 - Deployment using Firebase, Heroku, and Railway
 
 ## 🚀 My Experience
-
 I'm a dedicated problem-solver with a keen attention to detail. I thrive in collaborative team environments and have experience developing and maintaining web applications. I'm committed to continuous learning and growth and am always looking for opportunities to challenge myself.
 
-## 🌱 Continuous Learning
+Feel free to explore my [GitHub repositories](https://github.com/DanAdewole) for examples of my work and projects utilizing my diverse skill set.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=danadewole&label=Profile%20views&color=0e75b6&style=flat" alt="tobitheprof" /> </p>
+
+## 🌱 Learning
 My goal is to contribute to the growth of a dynamic company by utilizing my skills and passion for software engineering. If you're looking for a skilled, innovative, and driven software engineer to join your team, please don't hesitate to contact me.
 
-## 🔭 Projects
+- 🔭 I’m currently working on [Ecommerce](https://github.com/DanAdewole/Ecommerce.git)
 
+- 💬 Ask me about **Python, JavaScript, Django, Flask**
+
+- 📫 How to reach me **adedaniel5042@gmail.com**
+
+## 🔭 Projects
 Some of the projects I've done include:
 - Simpleblog-API: A RESTful API built with Django and Django REST framework (DRF) that provides endpoints for managing a simple blogging application. Check it out [here](https://github.com/DanAdewole/SimpleBlog-API)
 - Reader: A project that allows anonymous users to view a list of available books on the homepage and search for books based on title, author, or summary. Check it out [here](https://github.com/DanAdewole/LocalLibrary)
@@ -70,3 +79,14 @@ Some of the projects I've done include:
     <img src=https://img.shields.io/badge/hashnode-%232962FF.svg?&style=for-the-badge&logo=hashnode&logoColor=white alt=hashnode style="margin-bottom: 5px;" />
    </a>  
 </div>
+
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=DanAdewole&show_icons=true&theme=transparent&count_private=true&hide=issues,prs" width="100%" />
+</p>
+<p align="center">
+  <img align="center" src="https://streak-stats.demolab.com/?user=DanAdewole&theme=transparent" width="100%" />
+</p>
+<br />
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanAdewole&hide_progress=true&theme=transparent" width="100%"/>
+</p>
