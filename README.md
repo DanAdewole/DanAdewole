@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Daniel Adewole</h1>
-# Professional Profile
 
 ## About Me
 I am a skilled and passionate software engineer specializing in backend development with over 2 years of experience, building scalable and efficient web applications. I am constantly expanding my knowledge to stay up-to-date with the latest technologies.
