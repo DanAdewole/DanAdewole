@@ -81,9 +81,9 @@ Some of the projects I've done include:
 
 ## Github Stats
 
-<p align="center">
+<!-- <p align="center"> 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=DanAdewole&show_icons=true&theme=transparent&count_private=true&hide=issues,prs" width="100%" />
-</p>
+</p> -->
 <p align="center">
   <img align="center" src="https://streak-stats.demolab.com/?user=DanAdewole&theme=transparent" width="100%" />
 </p>
