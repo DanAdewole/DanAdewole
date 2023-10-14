@@ -84,10 +84,10 @@ Some of the projects I've done include:
 <!-- <p align="center"> 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=DanAdewole&show_icons=true&theme=transparent&count_private=true&hide=issues,prs" width="100%" />
 </p> -->
-<p align="center">
+<!-- <p align="center">
   <img align="center" src="https://streak-stats.demolab.com/?user=DanAdewole&theme=transparent" width="100%" />
-</p>
 <br />
+</p> -->
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanAdewole&hide_progress=true&theme=transparent" width="100%"/>
 </p>
