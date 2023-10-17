@@ -84,7 +84,7 @@ Some of the projects I've done include:
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=DanAdewole&show_icons=true&theme=radical" />
 </a>
 <a href="#">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DanAdewole&layout=compact&langs_count=8" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DanAdewole&&langs_count=8" />
 </a>
 
 <!-- Extra pins
