@@ -80,14 +80,24 @@ Some of the projects I've done include:
 </div>
 
 ## Github Stats
+<a href="#">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=DanAdewole&show_icons=true&theme=radical" />
+</a>
+<a href="#">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DanAdewole&layout=compact&langs_count=8&card_width=320" />
+</a>
 
+<!-- Extra pins
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanAdewole&show_icons=true&theme=radical) -->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanAdewole&layout=compact) -->
 <!-- <p align="center"> 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=DanAdewole&show_icons=true&theme=transparent&count_private=true&hide=issues,prs" width="100%" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=DanAdewole&show_icons=true&theme=transparent&count_private=true&hide=issues,prs" />
 </p> -->
 <!-- <p align="center">
   <img align="center" src="https://streak-stats.demolab.com/?user=DanAdewole&theme=transparent" width="100%" />
 <br />
 </p> -->
-<p>
+<!-- <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanAdewole&hide_progress=true&theme=transparent" width="100%"/>
-</p>
+</p> -->
