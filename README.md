@@ -86,7 +86,7 @@ Some of the projects I've done include:
 <a href="#">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DanAdewole&layout=compact&langs_count=8" />
 </a>
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DanAdewole)](https://git.io/streak-stats)
 <!-- Extra pins
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanAdewole&show_icons=true&theme=radical) -->
