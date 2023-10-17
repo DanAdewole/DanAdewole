@@ -81,7 +81,7 @@ Some of the projects I've done include:
 
 ## Github Stats
 <a href="#">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=DanAdewole&show_icons=true&theme=radical" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=DanAdewole&show_icons=true&theme=radical&rank_icon=percentile" />
 </a>
 <a href="#">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DanAdewole&layout=compact&langs_count=8" />
