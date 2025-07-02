@@ -26,6 +26,8 @@ My goal is to contribute to the growth of a dynamic company by utilizing my skil
 - 💬 Ask me about **Python, JavaScript, Django, Flask**
 
 - 📫 How to reach me **adedaniel5042@gmail.com**
+  
+- [My CV](https://drive.google.com/file/d/1BPSfEIYAivzp7y83SFaNhskpolLFXsXj/view?usp=drive_link)
 
 ## 🔭 Projects
 Some of the projects I've done include:
