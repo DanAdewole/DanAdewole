@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Daniel Adewole</h1>
 
 
-
 ## Connect with me  
 <div align="center">
   <a href="https://github.com/DanAdewole" target="_blank">
